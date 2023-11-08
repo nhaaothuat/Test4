@@ -1,0 +1,33 @@
+
+#card-info .card-info {
+     margin-bottom: 30px;
+     display: flex;
+     justify-content: space-between;
+   }
+   #card-info .card-info-btn {
+     margin-top: 10px;
+     margin-right: 50px;
+     color: #fff;
+   }
+   #card-info .card-info-btn button {
+     background-color: rgba(9, 180, 81, 1);
+     border-radius: 30px;
+     padding: 10px 10px;
+     border-style: none;
+     color: #fff;
+   }
+   .card-info-btn button img {
+     padding: 0 10px;
+   }
+   .card-info-btn button:hover {
+     background-color: #fff;
+   }
+   
+   #card-info .cardCss {
+     transition: all 0.5s;
+   }
+   #card-info .cardCss:hover {
+     transform: translate(0px, -20px);
+     transition: all 0.5s;
+   }
+   
